@@ -23,9 +23,7 @@ img {
 
 .cat {
     position: fixed;
-    left: 5px;
-    bottom: 1px;
-    height: 150px;
+    center: 0px 
 }
 
 
