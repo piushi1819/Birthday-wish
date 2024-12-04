@@ -36,7 +36,7 @@ img {
 
 .birthdayCard {
     position: relative;
-    width: 340px;
+    width: 355px;
     height: 550px;
     cursor: pointer;
     transform-style: preserve-3d;
@@ -73,8 +73,8 @@ img {
 .cardFront {
     position: relative;
     background-color: #fff;
-    width: 250px;
-    height: 350px;
+    width: 355px;
+    height: 550px;
     overflow: hidden;
     transform-origin: left;
     box-shadow: inset 100px 20px 100px rgba(0, 0, 0, .13), 30px 0 50px rgba(0, 0, 0, 0.1);
@@ -245,7 +245,7 @@ img {
 .cardInside {
     position: absolute;
     background-color: #fff;
-    width: 340px;
+    width: 355px;
     height: 550px;
     z-index: -1;
     left: 0;
