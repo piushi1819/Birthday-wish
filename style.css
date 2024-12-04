@@ -36,8 +36,8 @@ img {
 
 .birthdayCard {
     position: relative;
-    width: 250px;
-    height: 350px;
+    width: 500px;
+    height: 700px;
     cursor: pointer;
     transform-style: preserve-3d;
     transform: perspective(2500px);
@@ -51,7 +51,7 @@ img {
 
 
 .birthdayCard:hover .cardFront {
-    transform: rotateY(-160deg);
+    transform: rotateY(-170deg);
 }
 
 .birthdayCard:hover .front-text {
